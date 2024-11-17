@@ -1,4 +1,4 @@
-# GIS_Software
+# Swift Map
 Welcome to the Geographic Information System (GIS) project repository! This project is part of a design course aimed at creating a powerful GIS software program to visualize and solve travel and optimization problems in maps of any city in the world.
 
 Features:
